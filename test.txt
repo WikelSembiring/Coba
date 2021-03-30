@@ -1,6 +1,5 @@
-INI ADALAH NOTE PERCOBAAN: 
-
+Berikut beberapa game dengan penikmat E-Sport terbanyak :
 - Dota 2
-- CsGO
-- Valorant
+- LOL
 - Apex Legends
+- PUBG
